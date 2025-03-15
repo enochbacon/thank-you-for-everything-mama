@@ -1,0 +1,34 @@
+body{
+    background-color: brown;
+    background-repeat: no-repeat;
+    display: flex;
+    min-height: 95vh;
+    align-items: center;
+    justify-content: center;
+}
+.love-you{
+    background-color: blue;
+    max-width: 40%;
+    padding: 20px;
+    border-radius: 2%;
+}
+.your-the-best{
+    background-color: blue;
+    border-radius: 2%;
+}
+.best-mom-ever{
+    color: white;
+}
+.thank-you{
+    color: white;
+}
+.you-are-my-hero{
+    color: pink;
+    background-color: white;
+    border: none;
+}
+.i-will-always-love-you{
+    color: pink;
+    background-color: white;
+    border: none;
+}
